@@ -1,0 +1,16 @@
+body {
+    background: #34302d;
+}
+
+button:hover {
+    background: #ef9849;
+}
+
+.open-crate, .inventory, .chanceInfo, .exchangeInfo {
+    background-color: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(10px); /* Blur effect */
+}
+
+.inventory-item p{
+    margin: 0 20px;
+}
