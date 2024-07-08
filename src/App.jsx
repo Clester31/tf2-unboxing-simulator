@@ -32,8 +32,6 @@ export default function App() {
     return priceKeys.length > 0 ? priceKeys[randomIndex] : null;
   }
 
-  setCrateList({winter_2023_cosmetic_case, summer_2023_cosmetic_case});
-
   useEffect(() => {
     async function fetchItemPrice() {
       if (!shouldFetchPrice) return; 
