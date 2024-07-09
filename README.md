@@ -10,6 +10,6 @@ This is a fully functioning loot crate unboxing simulator based off of Team Fort
 
 ## Tools Used
 
-**React**
-**Tailwind CSS**
-**Backpack.tf API**
+* **React**
+* **Tailwind CSS**
+* **Backpack.tf API**
