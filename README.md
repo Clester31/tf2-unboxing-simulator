@@ -1,6 +1,6 @@
 # TF2 Unboxing Simulator
 
-This is a fully functioning loot crate unboxing simulator based off of Team Fortress 2 cosmetic crates. Experience the thrill of spending $2.49 to be rewarded with an item that will probably resell for less than ten cents. Also doubles as an anit-gambling PSA
+This is a fully functioning loot crate unboxing simulator based off of Team Fortress 2 cosmetic crates. Experience the thrill of spending $2.49 to be rewarded with an item that will probably resell for less than ten cents. Also doubles as an anti-gambling PSA
 
 ## Features
 - **Accurate item pricing**: All item prices are fetched using the backpack.tf API
